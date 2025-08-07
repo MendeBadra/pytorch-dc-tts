@@ -7,3 +7,7 @@ logdir/
 samples
 *.npy
 *.tar.bz2
+
+*.zip
+
+datasets/MBSpeech-1.0-csv/*
